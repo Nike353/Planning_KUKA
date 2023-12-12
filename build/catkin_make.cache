@@ -1,0 +1,2 @@
+brics_actuator:youbot_description:youbot_driver:youbot_driver_ros_interface:youbot_simulation/youbot_gazebo_control:youbot_simulation/youbot_gazebo_robot:youbot_simulation/youbot_gazebo_worlds:youbot_simulation/youbot_simulation
+-DCATKIN_DEVEL_PREFIX=/home/nikhil/IITM/ed2515_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nikhil/IITM/ed2515_ws/install -G Unix Makefiles
